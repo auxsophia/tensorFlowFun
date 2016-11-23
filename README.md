@@ -7,7 +7,7 @@ Blackecho is the username of an excellent programmer who released ready to use [
 
 ### Note: In order to clone the blackecho folder along with tensorFlowFun, you must use the following command:
 ```
-git clone --recursive <project url>
+git clone --recursive https://github.com/auxsophia/tensorFlowFun.git
 ```
 
 If you cloned normally and missed the blackecho folder or just wish to update the submodule:
