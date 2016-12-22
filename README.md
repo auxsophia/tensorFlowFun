@@ -15,3 +15,11 @@ If you cloned normally and missed the blackecho folder or just wish to update th
 git submodule update --init --recursive
 ```
 The submodule won't update on its own, so we may need to run this manually when it does.
+
+### Known error:
+Encountered when trying to run the deep autoencoder on cifar10, import error for yadlt.models.rbm_models.
+I ran the following in the yadlt/models/ directory
+```
+export PYTHONPATH=.
+```
+and it worked nicely.
