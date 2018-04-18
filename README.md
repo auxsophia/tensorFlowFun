@@ -3,7 +3,7 @@ Random TensorFlow (machine learning framework) projects for fun and to learn.
 
 
 ## blackecho
-Blackecho is the username of an excellent programmer who released ready to use [TensorFlow models](https://github.com/blackecho/Deep-Learning-TensorFlow). The webstie for the documentation can be seen [here](http://deep-learning-tensorflow.readthedocs.io/en/latest/).
+Blackecho is the username of an excellent programmer who released ready to use [TensorFlow models](https://github.com/blackecho/Deep-Learning-TensorFlow). The website for the documentation can be seen [here](http://deep-learning-tensorflow.readthedocs.io/en/latest/).
 
 ### Note: In order to clone the blackecho folder along with tensorFlowFun, you must use the following command:
 ```
